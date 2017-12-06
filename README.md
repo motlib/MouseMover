@@ -12,3 +12,4 @@ device, which moves the mouse cursor regularly.
 This sketch is intended for the Arduino Pro Micro, as it can implement a HID
 device. Other Aruino boards with a separate UART-to-USB-chip will not work. 
 
+See https://github.com/motlib/MouseMover for details.
